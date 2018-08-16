@@ -4,5 +4,6 @@
     <string name="date">Date</string>
     <string name="content_decription_bullet_image">bullet_image</string>
     <string name="content_decription_delete_image">delete_image</string>
-    <string name="v"></string>
+    <string name="empty_list_message">Nothing To Show..</string>
+    <string name="add_button">Add Note</string>
 </resources>

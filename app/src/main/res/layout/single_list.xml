@@ -27,11 +27,12 @@
         android:layout_marginBottom="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
+        android:background="@android:drawable/ic_menu_compass"
         android:contentDescription="@string/content_decription_bullet_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="?android:attr/tooltipFrameBackground" />
+        app:srcCompat="@android:drawable/divider_horizontal_dark" />
 
     <TextView
         android:id="@+id/date"
